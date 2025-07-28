@@ -6,14 +6,7 @@
     "lat": 47.6038321,
     "lon": -122.330062
   },
-  {
-    "ID": "374775",
-    "name": "Jason",
-    "lat": 28.5421109,
-    "lon": -81.3790304,
-    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/uc9m5ftcsfiky1vl5hzptej93ycj"
-  },
-  {
+    {
     "ID": "373924",
     "name": "Matthew Christy",
     "lat": -41.1651716,
@@ -54,6 +47,34 @@
     "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/h15clfqnrtbt9i5w2klkh4tnk4ug",
     "lat": 53.8179442,
     "lon": -3.0509812
+  },
+  {
+    "ID": "290774",
+    "name": "Anders",
+    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/0zkwhbzltdz36ibet4k4s7vhepl1",
+    "lat": 55.670249,
+    "lon": 10.3333283
+  },
+  {
+    "ID": "348611",
+    "name": "Pete | Engagement Guide",
+    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/3koropw1i9wz6owdf0kdp321as7n",
+    "lat": 34.729847,
+    "lon": -86.5859011
+  },
+  {
+    "ID": "329856",
+    "name": "Joey Tabone",
+    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/y0dvfqtb8fpwlhejy60gcttsff6s",
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  {
+    "ID": "294794",
+    "name": "Jacob Hasle Nielsen",
+    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/a2ja56femau7f76bveyac72brmqp",
+    "lat": 55.6867243,
+    "lon": 12.5700724
   }
 
 ]
