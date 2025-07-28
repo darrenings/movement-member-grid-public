@@ -75,6 +75,12 @@
     "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/a2ja56femau7f76bveyac72brmqp",
     "lat": 55.6867243,
     "lon": 12.5700724
-  }
-
+  },
+{
+    "ID": "290208",
+    "name": "David Fox",
+    "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/9wttllkcf6s571pfac7ho37e8k58",
+    "lat": 54.7023545,
+    "lon": -3.2765753
+}
 ]
