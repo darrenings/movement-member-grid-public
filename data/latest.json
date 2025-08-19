@@ -1,5 +1,13 @@
 [
     {
+        "ID": "272927",
+        "name": "Jason",
+        "location": "Glastonbury",
+        "lat": 51.14804,
+        "lon": -2.716577,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/kdneaj46dhitnc5dr4u2bo0fflii"
+    },
+    {
         "ID": "279086",
         "name": "Darren Ings",
         "location": "Reading, UK",
@@ -1774,5 +1782,61 @@
         "lat": -6.1754049,
         "lon": 106.827168,
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/fpeom3wtnuamhjanx4lxu87v8thv"
+    },
+    {
+        "ID": "391014",
+        "name": "Leroy",
+        "location": "London",
+        "lat": 51.4893335,
+        "lon": -0.1440551,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/l4tkrxsrqo0j89qxr70rj80l76ho"
+    },
+    {
+        "ID": "391063",
+        "name": "Sambanath Denis-Murray",
+        "location": "Wales",
+        "lat": 52.2928116,
+        "lon": -3.73893,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/58sa16ca7it53g2em7upegc8uqyr"
+    },
+    {
+        "ID": "391759",
+        "name": "Josh Ditte",
+        "location": "Bristol",
+        "lat": 51.4538022,
+        "lon": -2.5972985,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/n386elk25idihetaozlouk0pi7t8"
+    },
+    {
+        "ID": "391846",
+        "name": "John Thomsen (TheDaddyGuru)",
+        "location": "Quepos, Puntarenas, Costa Rica",
+        "lat": 9.4127862,
+        "lon": -84.0649206,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/eu5ku3enyyskh9un0qdcd6tj6db3"
+    },
+    {
+        "ID": "392033",
+        "name": "Lee Shiel",
+        "location": "Exeter",
+        "lat": 50.7256138,
+        "lon": -3.5269209,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/bjww1m5lcui8qg6u3r5ony9hn1wn"
+    },
+    {
+        "ID": "392071",
+        "name": "D D",
+        "location": "Madison, WI",
+        "lat": 43.074761,
+        "lon": -89.3837613,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/4gur6yxtenh8ror0hlto3wzdzhrd"
+    },
+    {
+        "ID": "392435",
+        "name": "Dariusz Wedge",
+        "location": "Edinburgh/Scotland",
+        "lat": 55.9533456,
+        "lon": -3.1883749,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/j3ck9ub97e042x0apd40xigq6xfj"
     }
 ]
