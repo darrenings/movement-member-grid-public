@@ -1480,20 +1480,20 @@
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/gue77evycszc8rym0vggr443hos8"
     },
     {
-        "ID": "369615",
-        "name": "Ben Fojut",
-        "location": "Leeds, UK",
-        "lat": 53.7974185,
-        "lon": -1.5437941,
-        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/iq98khr5pwa15q222v5bro4vxu00"
-    },
-    {
         "ID": "369617",
         "name": "Martin Feaver",
         "location": "London and Kent",
         "lat": 51.490903,
         "lon": -0.0814452,
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/qziui1xslh6o1kp34dgarohn3ujy"
+    },
+    {
+        "ID": "369615",
+        "name": "Ben Fojut",
+        "location": "Leeds, UK",
+        "lat": 53.7974185,
+        "lon": -1.5437941,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/iq98khr5pwa15q222v5bro4vxu00"
     },
     {
         "ID": "369622",
