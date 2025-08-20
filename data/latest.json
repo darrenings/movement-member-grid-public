@@ -10,9 +10,9 @@
     {
         "ID": "279086",
         "name": "Darren Ings",
-        "location": "Reading, UK",
-        "lat": 51.4514953,
-        "lon": -0.9836342,
+        "location": "Aldermaston, UK",
+        "lat": 51.38267,
+        "lon": -1.1518107,
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/s6j06uhofbyp3dw0yoptiskm7oy4"
     },
     {
@@ -1408,6 +1408,14 @@
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/i725dqoq4g2ozs245agueyxyzidk"
     },
     {
+        "ID": "365619",
+        "name": "Dash",
+        "location": "London",
+        "lat": 51.4893335,
+        "lon": -0.1440551,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/akl2xl5497m77ztegq5ix4jwzuvq"
+    },
+    {
         "ID": "365914",
         "name": "Chris",
         "location": "Fort Collins, CO USA",
@@ -1558,6 +1566,14 @@
         "lat": 41.5774793,
         "lon": -71.5376881,
         "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/qt2v4xnw80kstayl1igg45cecl9p"
+    },
+    {
+        "ID": "373720",
+        "name": "bionicjamie",
+        "location": "Manchester",
+        "lat": 53.4794892,
+        "lon": -2.2451148,
+        "image": "https://fitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com/o8mbzol2fu0n7j2rqxuo8zewpmn9"
     },
     {
         "ID": "373924",
