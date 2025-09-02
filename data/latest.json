@@ -1,5 +1,13 @@
 [
     {
+        "ID": "401218",
+        "name": "Damon",
+        "location": "Oceanside, CA",
+        "lat": 33.1958696,
+        "lon": -117.379483,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fain9beare7qdsbg94k4slfh7tups?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=aefd91d7ad606293df73631f936a316e"
+    },
+    {
         "ID": "396325",
         "name": "Kyle James",
         "location": "Moab, Utah",
@@ -374,6 +382,14 @@
         "lat": 47.6144219,
         "lon": -122.192337,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fha0q23wxud2ssup2v3m08xvoa4sa?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=bd0292404138493ce8f68a83aca531ea"
+    },
+    {
+        "ID": "369625",
+        "name": "Nigel Bruce",
+        "location": "Stirling Scotland.",
+        "lat": 56.1181242,
+        "lon": -3.9360012,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fhbjm9lxcslyw47kpieb00s8y6me1?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fa78269f38f1b98cc19714ef718fe801"
     },
     {
         "ID": "369622",
@@ -1168,6 +1184,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fhzy5sspiktrlbkah1cp950aojzml?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=d408a891adc122cb9a6f23b60bea438e"
     },
     {
+        "ID": "302662",
+        "name": "Dale Hampton",
+        "location": "Rochester, NY USA",
+        "lat": 43.157285,
+        "lon": -77.615214,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxmkdrltcjmsu8fadr9uqlng7mplw?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=6cf061e0613f503069f0fd131e50461e"
+    },
+    {
         "ID": "302060",
         "name": "Andrew Fairey",
         "location": "Grange-over-Sands, UK",
@@ -1576,6 +1600,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxhizohth855pllxb2i8qtnvpu1vs?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=3375b1f9b22be4bb5ee4412e9078341f"
     },
     {
+        "ID": "292524",
+        "name": "Mark Liddle",
+        "location": "London, UK",
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F3k430v4z97pghlcv2dj1f8nlcxif?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=3e55b23db2772ac1c187c873d73c2c03"
+    },
+    {
         "ID": "292301",
         "name": "Rene Cook",
         "location": "Dallas/TX/USA",
@@ -1720,6 +1752,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ff2oisxfbiil3w9xzmw7jqru9hv7z?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=28db0816e4ea812fe0f44bc7a8c37a6d"
     },
     {
+        "ID": "290888",
+        "name": "Guy",
+        "location": "Napa, Ca. United States",
+        "lat": 38.4898675,
+        "lon": -122.3218414,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F3dhkz6nk9hxvnbw4lzz0nnwkdxye?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=b131b197a70e89ea8b92c8286e737457"
+    },
+    {
         "ID": "290884",
         "name": "Erik B",
         "location": "Cape Cod, Massachusetts, USA",
@@ -1818,9 +1858,9 @@
     {
         "ID": "290208",
         "name": "David Fox",
-        "location": "United Kingdom",
-        "lat": 54.7023545,
-        "lon": -3.2765753,
+        "location": "London",
+        "lat": 51.4893335,
+        "lon": -0.1440551,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F9wttllkcf6s571pfac7ho37e8k58?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=2287a62a5ca500e80134cdbfdfc6fd15"
     },
     {
