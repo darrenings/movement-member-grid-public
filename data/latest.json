@@ -1,5 +1,21 @@
 [
     {
+        "ID": "402725",
+        "name": "dominicvine",
+        "location": "New York / Indianapolis",
+        "lat": 39.7717152,
+        "lon": -86.1745516,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fjn899py63p01aab29l9gu9t207bc?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=3687fb8850d9144333969837ee654edf"
+    },
+    {
+        "ID": "402272",
+        "name": "Scott Tumbach",
+        "location": "Edmonton, Alberta",
+        "lat": 53.5462055,
+        "lon": -113.491241,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F7s8m0pc273mahys3qgx6p5rli878?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=acd6e1e016cc75352dd6d5a95fc39946"
+    },
+    {
         "ID": "401218",
         "name": "Damon",
         "location": "Oceanside, CA",
@@ -494,14 +510,6 @@
         "lat": 33.7544657,
         "lon": -84.3898151,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ff8dyrt06bfpajq5e2333s8njmixl?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=082281036fd2a5ee9084d55a8baaec1f"
-    },
-    {
-        "ID": "364218",
-        "name": "David Butler",
-        "location": "Cairns, Queensland, Australia",
-        "lat": -16.9206657,
-        "lon": 145.7721854,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fk962wauomzyubyxnu21nfbt92hj3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=c5af9a9e2a8d002d009cf6da6121598b"
     },
     {
         "ID": "363670",
@@ -1336,14 +1344,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fgildc3oft4ees0r9dxzkotcrbuga?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=9a19359bf65539aa2be0bf9089f799b4"
     },
     {
-        "ID": "299756",
-        "name": "Hans",
-        "location": "Winterthur, Switzerland",
-        "lat": 47.4991723,
-        "lon": 8.7291498,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F4qgohl86crdosyuad9yxb0a7vrh6?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=1c3591c2b6d35b5dff15f6cf7ac35d54"
-    },
-    {
         "ID": "299753",
         "name": "Jonathan Boyer",
         "location": "Québec, QC, Canada",
@@ -1923,8 +1923,8 @@
         "ID": "272927",
         "name": "Jason",
         "location": "Amsterdam",
-        "lat": 52.3780680, 
-        "lon": 4.8997321,
+        "lat": 52.3730796,
+        "lon": 4.8924534,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fkdneaj46dhitnc5dr4u2bo0fflii?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a5c9ff9864100382a52c13307e92e65f"
     }
 ]
