@@ -56,6 +56,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Feu5ku3enyyskh9un0qdcd6tj6db3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=887b6ccae5abc9a33bf838014300c920"
     },
     {
+        "ID": "391800",
+        "name": "Frank K",
+        "location": "London",
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F8e8v58lv8c9xq6biqrawvos3f815?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=31f135dec536b6515bc7c3b096e098a2"
+    },
+    {
         "ID": "391759",
         "name": "Josh Ditte",
         "location": "Bristol",
@@ -856,14 +864,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fzjtr93m7natx2tibgi8gggb41vte?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=76f45c6ee36f3403f67b9979fd428f28"
     },
     {
-        "ID": "336713",
-        "name": "Robert Skinner",
-        "location": "Austin, Texas, USA",
-        "lat": 30.2711286,
-        "lon": -97.7436995,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ft2dgxhf5ct0sibjluw2u47ezl2ta?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8d16b7487066704c42e117268f219d2b"
-    },
-    {
         "ID": "336710",
         "name": "Marc",
         "location": "Montreal/Quebec/Canada",
@@ -1030,6 +1030,14 @@
         "lat": 52.2410014,
         "lon": 1.0465716,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fek07tmdn6gk7z6fqcja270mgmsx7?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=9bdc6a83fd24bfdd61213dffb2053646"
+    },
+    {
+        "ID": "314411",
+        "name": "Darryl",
+        "location": "Ionia, MI USA",
+        "lat": 42.9469688,
+        "lon": -85.0713945,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F3aguex5h9e8y9zifuweeadq1wpgt?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=375845ca22d493e1fa88841a0d8d736e"
     },
     {
         "ID": "314262",
@@ -1224,14 +1232,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fvprwirqac6ylpwud77h3pch6gu5k?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a6888ea5cec415b9b2b63f96038ca431"
     },
     {
-        "ID": "301650",
-        "name": "Sean Stanton",
-        "location": "San Jose, CA, USA",
-        "lat": 37.3361663,
-        "lon": -121.890591,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fc6x43wtcdxtrsgyvf7ufgeeho7w8?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=cd4a723bbdb3b332c6974259ba90d0e9"
-    },
-    {
         "ID": "301636",
         "name": "Rich N",
         "location": "Columbus, OH",
@@ -1254,14 +1254,6 @@
         "lat": 43.157285,
         "lon": -77.615214,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F1wkgovztcu9p35lijzgnxn4putah?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=ba69555f2501c31c6a9d5a3d1094addb"
-    },
-    {
-        "ID": "300037",
-        "name": "Oli",
-        "location": "London UK",
-        "lat": 51.4893335,
-        "lon": -0.1440551,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fe58ysn2iqgj3kfukhl3yit6t7oom?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=0eac3e45018de9d39cb63d062a40af8e"
     },
     {
         "ID": "299988",
