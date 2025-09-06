@@ -112,6 +112,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fmc6by8xr1uil5lz90zejab1sj9t8?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=decc00f8a836270c110c74bc8d38108c"
     },
     {
+        "ID": "388438",
+        "name": "Ben",
+        "location": "Los Angeles, CA, USA",
+        "lat": 34.0536909,
+        "lon": -118.242766,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fu84p195syy51t42trce2npsv5oi0?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8800281966a097935203a9ccc7fb25bc"
+    },
+    {
         "ID": "388318",
         "name": "NiceViking",
         "location": "Copenhagen",
@@ -400,6 +408,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fha0q23wxud2ssup2v3m08xvoa4sa?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=bd0292404138493ce8f68a83aca531ea"
     },
     {
+        "ID": "369633",
+        "name": "Nitin Kanji",
+        "location": "Dewsbury, West Yorkshire, UK",
+        "lat": 53.6909103,
+        "lon": -1.6302142,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Firkcg6qyhccnr89x1cx9f6x7it4g?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=9cf6b3104836e03731051bc83ba17382"
+    },
+    {
         "ID": "369625",
         "name": "Nigel Bruce",
         "location": "Stirling Scotland.",
@@ -478,6 +494,14 @@
         "lat": 34.0536909,
         "lon": -118.242766,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F5vuzdnbmg8bpzi7iuzfsg4k0eozo?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=0dafee48031d306c4053b60e367db112"
+    },
+    {
+        "ID": "367530",
+        "name": "Dennis",
+        "location": "Tampa, FL, USA",
+        "lat": 27.9477595,
+        "lon": -82.458444,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F1htvsvcl5md1lazmayfci6xwpyw3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=7740c39ead2914321d487244adb6963f"
     },
     {
         "ID": "365914",
@@ -1614,6 +1638,14 @@
         "lat": 32.7762719,
         "lon": -96.7968559,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fygrz8w71pw17zscatm505vn1p2vj?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=fc5fdf3c3dbe3c4eafb7d8e9f2537c48"
+    },
+    {
+        "ID": "292233",
+        "name": "Bob B",
+        "location": "Miami, FL, USA",
+        "lat": 25.7741728,
+        "lon": -80.19362,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F8lfpgoj1uq043i5n6egosexngg1f?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=641c7b981eaf0e85ed504efa1baeef0c"
     },
     {
         "ID": "292192",
