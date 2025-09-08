@@ -16,6 +16,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fjn899py63p01aab29l9gu9t207bc?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=3687fb8850d9144333969837ee654edf"
     },
     {
+        "ID": "402462",
+        "name": "Rich",
+        "location": "Washington DC USA 20001",
+        "lat": 38.925343,
+        "lon": -77.0680129,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Feiskav54055geljbuulmshhw9n01?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=6f0dad8d6c0faa2b3a11b06ceae24a94"
+    },
+    {
         "ID": "402272",
         "name": "Scott Tumbach",
         "location": "Edmonton, Alberta",
@@ -1682,9 +1690,9 @@
     {
         "ID": "292524",
         "name": "Mark Liddle",
-        "location": "London, UK",
-        "lat": 51.5074456,
-        "lon": -0.1277653,
+        "location": "Hackney, London, UK",
+        "lat": 51.5432402,
+        "lon": -0.0493621,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F3k430v4z97pghlcv2dj1f8nlcxif?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=3e55b23db2772ac1c187c873d73c2c03"
     },
     {
