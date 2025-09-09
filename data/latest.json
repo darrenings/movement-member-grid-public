@@ -1,5 +1,13 @@
 [
     {
+        "ID": "405607",
+        "name": "Ben Levy",
+        "location": "Hamilton, New Zealand",
+        "lat": -37.7878809,
+        "lon": 175.281788,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxmg1a02p10ti1l7jh2stox61d4ai?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fff6c7a3ce66c1752e3a321181d9ef38"
+    },
+    {
         "ID": "405171",
         "name": "Andy B",
         "location": "Manchester UK",
@@ -222,6 +230,14 @@
         "lat": 35.3738712,
         "lon": -119.019463,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fyenh5a2a25vbb7pk1aqyazlpfmr5?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=6a099222056cc75eb20f0f538502c1f2"
+    },
+    {
+        "ID": "384320",
+        "name": "John Yerby",
+        "location": "Leavenworth, WA, USA",
+        "lat": 47.5969138,
+        "lon": -120.661081,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fdjj4yjspb17menv12msi3ubuknf6?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8bf9e6b95afe8b82e07f7177427c3029"
     },
     {
         "ID": "383034",
