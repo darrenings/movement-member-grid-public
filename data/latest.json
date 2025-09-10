@@ -1,7 +1,7 @@
 [
     {
         "ID": "405607",
-        "name": "Ben Levy",
+        "name": "Ben",
         "location": "Hamilton, New Zealand",
         "lat": -37.7878809,
         "lon": 175.281788,
@@ -256,14 +256,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fii2203nxsuf0ecy6rzdgvjauzitg?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=dabe649d39f07e35bd3b2051e9a68811"
     },
     {
-        "ID": "382088",
-        "name": "Jordan",
-        "location": "Sydney",
-        "lat": -33.8698439,
-        "lon": 151.2082848,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F72fiaf0yenhresmkmzwhv4cx20x5?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fb00ff77a975e2a686572e07719a1f03"
-    },
-    {
         "ID": "380799",
         "name": "Mokshartha",
         "location": "London",
@@ -397,7 +389,7 @@
         "location": "NYC",
         "lat": 40.7127281,
         "lon": -74.0060152,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fwmpjaabekgn8uv6nvkr1op2vv8id?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=d79f71d58b9f575c82d124895b9e964a"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fm7bm12dmqv34xntfwtv29dcm0iyo?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=d7944c9f6a8ac70b63559ff867f31674"
     },
     {
         "ID": "372217",
@@ -472,14 +464,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxjg43bwk5mwwarzy2bby4ff1taov?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=e78d9e75a9c24a6dbf29e0e1a7c91c6e"
     },
     {
-        "ID": "369617",
-        "name": "Martin Feaver",
-        "location": "London and Kent",
-        "lat": 51.4928979,
-        "lon": -0.0839755,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fqziui1xslh6o1kp34dgarohn3ujy?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=cab2e6a01afcd76ea9399efeb55947ad"
-    },
-    {
         "ID": "369615",
         "name": "Ben Fojut",
         "location": "Leeds, UK",
@@ -518,14 +502,6 @@
         "lat": 39.7837304,
         "lon": -100.445882,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fafmrjf1ach0dkg84n3rjr4bu297y?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8b86e8aad01fcf7b575109e472ef70c3"
-    },
-    {
-        "ID": "369244",
-        "name": "Matthias de Poorter",
-        "location": "Germany",
-        "lat": 51.1638175,
-        "lon": 10.4478313,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fji2cd5n0uvs382z9tw983h908ps1?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=e5415f7786ada14926b7e59123ea004c"
     },
     {
         "ID": "368070",
