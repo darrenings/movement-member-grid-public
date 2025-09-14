@@ -1,5 +1,13 @@
 [
     {
+        "ID": "408138",
+        "name": "Riccardo Bisiccè",
+        "location": "Milano / Lombardy / Italy",
+        "lat": 45.4641943,
+        "lon": 9.1896346,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fpndd7sl0cm4m0wnl6cdq92gqc0zz?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=97afe9af947681af6991af95b7298617"
+    },
+    {
         "ID": "407790",
         "name": "Andy Mullen",
         "location": "Gateshead UK",
@@ -718,6 +726,14 @@
         "lat": 7.9075749,
         "lon": 123.4845404,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fb9ov04hku4twrsbeehe2xc9vmztf?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=6734638a16c3237360a74aa0ac8ab497"
+    },
+    {
+        "ID": "351128",
+        "name": "Manta Max",
+        "location": "Ivrea/ italy",
+        "lat": 45.4673791,
+        "lon": 7.874797,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fwwyica1elb3p7yrp2c4e7342ca48?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=ce4bc4a44aa6285ec9dd5b2e86734fd1"
     },
     {
         "ID": "350700",
@@ -1936,14 +1952,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fpsezsdt9d1bspl5bqc9ag7wsppn6?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=057adcf7b9277ffeb13a3d312944fa6f"
     },
     {
-        "ID": "290743",
-        "name": "Concierge Team",
-        "location": "Global",
-        "lat": 55.702215,
-        "lon": 12.5592485,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxcz9hbn9pbf0t9ziaffwuc5ejqan?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=2b8c2a404967e11407fc1b3d0ca49cad"
-    },
-    {
         "ID": "290742",
         "name": "Blossom Waffle",
         "location": "Palm Springs/California/USA",
@@ -2026,9 +2034,9 @@
     {
         "ID": "272927",
         "name": "Jason",
-        "location": "Amsterdam",
-        "lat": 52.3730796,
-        "lon": 4.8924534,
+        "location": "Benidorm",
+        "lat": 38.5406255,
+        "lon": -0.1290929,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fkdneaj46dhitnc5dr4u2bo0fflii?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a5c9ff9864100382a52c13307e92e65f"
     }
 ]
