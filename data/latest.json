@@ -32,6 +32,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fa16x8s79vf9h8avct7es85l2f3qw?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=148d70c85eebcfcaedab662ceb62c725"
     },
     {
+        "ID": "409309",
+        "name": "Santorino",
+        "location": "Paris, France",
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fi5dykgiacls0ew1iz55zg3sts7dg?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=6a5ce9bad7ebbbdee779303a38670dce"
+    },
+    {
         "ID": "409279",
         "name": "Raven",
         "location": "Fairfax, CA",
@@ -786,9 +794,9 @@
     {
         "ID": "351682",
         "name": "Adam",
-        "location": "Margate/London",
-        "lat": 51.4570506,
-        "lon": -0.1268177,
+        "location": "Margate, Kent, UK",
+        "lat": 51.3878174,
+        "lon": 1.3819699,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fugkigw915shc4ond897sujkaggiw?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=d0d9e3730bd2fcf98f3df85f5a79ed79"
     },
     {
