@@ -1,5 +1,21 @@
 [
     {
+        "ID": "411713",
+        "name": "Drew",
+        "location": "Reading UK",
+        "lat": 51.4514953,
+        "lon": -0.9836342,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fh0uchzvanz3kzuwfnjz1kyheb6vf?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=d7aceca8c9688740ce2d6d3738c81abf"
+    },
+    {
+        "ID": "411567",
+        "name": "John B",
+        "location": "California",
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fwqc1sjnttl6cnc9o1mlm1k5bm1ys?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=76403033874c4bb64034a16a6c3e6c5b"
+    },
+    {
         "ID": "409722",
         "name": "Jon",
         "location": "Bristol",
@@ -134,6 +150,14 @@
         "lat": 33.1958696,
         "lon": -117.379483,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fain9beare7qdsbg94k4slfh7tups?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=aefd91d7ad606293df73631f936a316e"
+    },
+    {
+        "ID": "400530",
+        "name": "Rich",
+        "location": "michigan / usa",
+        "lat": 43.6211955,
+        "lon": -84.6824346,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ft8rim0o20rhmav9gf9grp2a45b5r?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8c4f2f692f9f83be044a43287f996d8d"
     },
     {
         "ID": "400448",
@@ -1352,6 +1376,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fa7lge0jdgf785vjtbbjbnqqeqxx3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=28245901f382bae508ba58992c71d05d"
     },
     {
+        "ID": "303513",
+        "name": "Joshua Steven Allred",
+        "location": "Chicago, IL",
+        "lat": 41.8755616,
+        "lon": -87.6244212,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Frgslusc54bk60nxallxkeofojjwr?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a9cbecae2324af694ff33ce88f701211"
+    },
+    {
         "ID": "303432",
         "name": "Daniel DancingLight",
         "location": "Phoenix, AZ USA",
@@ -1365,7 +1397,7 @@
         "location": "Lunenburg, Nova Scotia, Canada",
         "lat": 44.3774954,
         "lon": -64.3154816,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fhzy5sspiktrlbkah1cp950aojzml?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=d408a891adc122cb9a6f23b60bea438e"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fhzy5sspiktrlbkah1cp950aojzml?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=2a5596449831ea8f73f9a18e84706f1b"
     },
     {
         "ID": "302662",
