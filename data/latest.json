@@ -9,10 +9,10 @@
     },
     {
         "ID": "411567",
-        "name": "John B",
-        "location": "California",
-        "lat": 36.7014631,
-        "lon": -118.755997,
+        "name": "Johnny B",
+        "location": "Northern California Region",
+        "lat": 38.8992315,
+        "lon": -121.8208014,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fwqc1sjnttl6cnc9o1mlm1k5bm1ys?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=76403033874c4bb64034a16a6c3e6c5b"
     },
     {
@@ -2138,9 +2138,9 @@
     {
         "ID": "279086",
         "name": "Darren Ings",
-        "location": "Basingstoke, UK",
-        "lat": 51.262826,
-        "lon": -1.0861976,
+        "location": "Aldermaston Wharf, UK",
+        "lat": 51.4009082,
+        "lon": -1.1376416,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fs6j06uhofbyp3dw0yoptiskm7oy4?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=b87dcdb2026b300ad893769d72d53b8a"
     },
     {
