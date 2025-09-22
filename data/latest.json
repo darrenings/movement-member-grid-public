@@ -16,6 +16,22 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fwqc1sjnttl6cnc9o1mlm1k5bm1ys?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=76403033874c4bb64034a16a6c3e6c5b"
     },
     {
+        "ID": "410016",
+        "name": "Michael Madden",
+        "location": "Pittsburgh/Pennsylvania/USA",
+        "lat": 40.3693889,
+        "lon": -80.6243098,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F23bnxrvvjr6egmnvc0mrqm5dtrn8?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=e5b33ad8a805c7d9a9e9a58e8df059b4"
+    },
+    {
+        "ID": "409754",
+        "name": "Findlay Dickson",
+        "location": "Durham UK",
+        "lat": 54.666667,
+        "lon": -1.75,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ft7l6ug284rnl8gfrika0tir5syj6?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=f9bc124db6a0cd769b7d4d661dc4ee7d"
+    },
+    {
         "ID": "409722",
         "name": "Jon",
         "location": "Bristol",
@@ -137,7 +153,7 @@
     },
     {
         "ID": "402272",
-        "name": "Scott Tumbach",
+        "name": "Scott T",
         "location": "Edmonton, Alberta",
         "lat": 53.5462055,
         "lon": -113.491241,
