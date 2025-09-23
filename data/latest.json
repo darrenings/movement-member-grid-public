@@ -1,5 +1,13 @@
 [
     {
+        "ID": "413136",
+        "name": "Aaron Wilson",
+        "location": "England, Kent",
+        "lat": 51.2070749,
+        "lon": 0.7210362,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fa2vv2i04fn6rrmnw03eb0ujnwv1c?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=608742e6e6baaf704d00d18c9392aa2e"
+    },
+    {
         "ID": "411713",
         "name": "Drew",
         "location": "Reading UK",
@@ -1393,7 +1401,7 @@
     },
     {
         "ID": "303513",
-        "name": "Joshua Steven Allred",
+        "name": "Joshua",
         "location": "Chicago, IL",
         "lat": 41.8755616,
         "lon": -87.6244212,
