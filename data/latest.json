@@ -360,6 +360,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F8v5geice1vv1gv7udgscfft6yu0k?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=edf1ac312347ec82a4f69759fbfd1e8f"
     },
     {
+        "ID": "293643",
+        "name": "Pete Cossaboon",
+        "location": "Huntsville, Alabama US",
+        "lat": 34.729847,
+        "lon": -86.5859011,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fdm7ey751khkbbxaq5thf32rqyijg?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=7f48698d5d7d2a0691ab02dcfd917c28"
+    },
+    {
         "ID": "293701",
         "name": "Myles",
         "location": "Perth, Western Australia",
