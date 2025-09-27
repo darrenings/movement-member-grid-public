@@ -2214,5 +2214,13 @@
         "lat": 51.2070749,
         "lon": 0.7210362,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fa2vv2i04fn6rrmnw03eb0ujnwv1c?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=608742e6e6baaf704d00d18c9392aa2e"
+    },
+    {
+        "ID": "414623",
+        "name": "Trevor",
+        "location": "Los Angeles, CA, United States",
+        "lat": 34.0536909,
+        "lon": -118.242766,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fvgnyuhuto9ktem11yamxnbiu7dva?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=c4b4be221d1b56dbbc39a6ce43fc39cf"
     }
 ]
