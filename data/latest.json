@@ -877,7 +877,7 @@
         "location": "Tarrytown, NY",
         "lat": 41.0762077,
         "lon": -73.8587461,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fmp6o7s9rsfkxr4xx7hs3fz138iev?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=4d80867abad15d2e0345e7e2706b2cea"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F50x4pjc5wmkr224jgq0mgd4m8ajg?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=00902b5db036e9e8f42b6352d01f7555"
     },
     {
         "ID": "309179",
@@ -950,6 +950,14 @@
         "lat": 52.2410014,
         "lon": 1.0465716,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fek07tmdn6gk7z6fqcja270mgmsx7?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=9bdc6a83fd24bfdd61213dffb2053646"
+    },
+    {
+        "ID": "317072",
+        "name": "Sebastian",
+        "location": "Hamburg, Germany",
+        "lat": 53.550341,
+        "lon": 10.000654,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F300y7jmwp2626qwntg11vnhjbw5d?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=df7f952f5943970567327024b164232a"
     },
     {
         "ID": "317696",
@@ -1904,14 +1912,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fu84p195syy51t42trce2npsv5oi0?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8800281966a097935203a9ccc7fb25bc"
     },
     {
-        "ID": "388687",
-        "name": "Andrey/Андрей",
-        "location": "Perth",
-        "lat": -31.9558967,
-        "lon": 115.8605784,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fmc6by8xr1uil5lz90zejab1sj9t8?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=decc00f8a836270c110c74bc8d38108c"
-    },
-    {
         "ID": "389876",
         "name": "Nur Fauzan",
         "location": "Jakarta",
@@ -1966,14 +1966,6 @@
         "lat": 51.4893335,
         "lon": -0.1440551,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F8e8v58lv8c9xq6biqrawvos3f815?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=31f135dec536b6515bc7c3b096e098a2"
-    },
-    {
-        "ID": "391846",
-        "name": "John Thomsen (TheDaddyGuru)",
-        "location": "Quepos, Puntarenas, Costa Rica",
-        "lat": 9.4127862,
-        "lon": -84.0649206,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Feu5ku3enyyskh9un0qdcd6tj6db3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=887b6ccae5abc9a33bf838014300c920"
     },
     {
         "ID": "392033",
@@ -2086,14 +2078,6 @@
         "lat": -37.7878809,
         "lon": 175.281788,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxmg1a02p10ti1l7jh2stox61d4ai?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fff6c7a3ce66c1752e3a321181d9ef38"
-    },
-    {
-        "ID": "406982",
-        "name": "Janos Lieberherr",
-        "location": "Winterthur, Switzerland",
-        "lat": 47.4991723,
-        "lon": 8.7291498,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fxgmwx7ile7m7mwe968d5h3tvramp?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=3fb1ef242feefdc64b32d9397e01fb01"
     },
     {
         "ID": "407790",
@@ -2222,5 +2206,13 @@
         "lat": 34.0536909,
         "lon": -118.242766,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fvgnyuhuto9ktem11yamxnbiu7dva?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=c4b4be221d1b56dbbc39a6ce43fc39cf"
+    },
+    {
+        "ID": "416279",
+        "name": "Brooks",
+        "location": "Boulder, Colorado",
+        "lat": 40.0149856,
+        "lon": -105.270545,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F5l83gz16cmftrmos82ktgvkb4ouf?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=b205315bcb7bb0a6f948fdc6fba6a1f2"
     }
 ]
