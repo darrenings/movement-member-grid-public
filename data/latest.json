@@ -256,14 +256,6 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fums1hblkkg0mn48g4ieyalsch4jr?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=0f19646ca0e08138c02149c7859512ff"
     },
     {
-        "ID": "291485",
-        "name": "Ross M",
-        "location": "eastern AZ, USA",
-        "lat": 33.40598,
-        "lon": -111.5592701,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F0muxjdr25ysebfciahjgppksoxl3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=474995cb4fa0b03e9467243360e4006c"
-    },
-    {
         "ID": "291650",
         "name": "Sean Carroll",
         "location": "Suffolk, UK",
@@ -877,7 +869,7 @@
         "location": "Tarrytown, NY",
         "lat": 41.0762077,
         "lon": -73.8587461,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F50x4pjc5wmkr224jgq0mgd4m8ajg?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=00902b5db036e9e8f42b6352d01f7555"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fohvyek9ic70e5ul3g547uhtqe7ct?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=bd2c34fabfc2968d01496d00e32a1b22"
     },
     {
         "ID": "309179",
@@ -1037,7 +1029,7 @@
         "location": "Sheffield/ United Kingdom",
         "lat": 53.3806626,
         "lon": -1.4702278,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fuwwlsevp58c3ave96r957lx760tm?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=188e7fcf2540f4eb2598640b4bf399e7"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fuwwlsevp58c3ave96r957lx760tm?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a7e4dfb43228f0d9ffd841844c87be41"
     },
     {
         "ID": "326314",
@@ -1393,7 +1385,7 @@
     },
     {
         "ID": "355330",
-        "name": "Jae Fitness",
+        "name": "Jae",
         "location": "Hartford, Connecticut, USA",
         "lat": 41.764582,
         "lon": -72.6908547,
@@ -1510,14 +1502,6 @@
         "lat": 42.9632425,
         "lon": -85.6678639,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fi725dqoq4g2ozs245agueyxyzidk?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=a17c2ac8b531d7390c87c5379f7941e7"
-    },
-    {
-        "ID": "365619",
-        "name": "Dash",
-        "location": "Brixton, London",
-        "lat": 51.4633914,
-        "lon": -0.1148023,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fw9nbzwb6hb12o0wmmsduahrew0he?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=f41988478e0e2adb3aec8c7d92427a72"
     },
     {
         "ID": "365914",
