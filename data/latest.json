@@ -2013,7 +2013,7 @@
         "location": "michigan / usa",
         "lat": 43.6211955,
         "lon": -84.6824346,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ft8rim0o20rhmav9gf9grp2a45b5r?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=8c4f2f692f9f83be044a43287f996d8d"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fll2gvlxc5zm4q173xp8jjubixl5o?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=0f7f4158755555b0020c261840d2b953"
     },
     {
         "ID": "401218",
@@ -2136,6 +2136,14 @@
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Ft3nbkwzvteu1q8wp29u6mkv1mask?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fa98c0f89966351dfc1958207387b812"
     },
     {
+        "ID": "409637",
+        "name": "B C",
+        "location": "Sydney, NSW, Australia",
+        "lat": -33.8698439,
+        "lon": 151.2082848,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F26uv96fn11p3vk9lygp16yr4925u?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=ad2e2429f5d7f4033b253dd1d67b2fc5"
+    },
+    {
         "ID": "409722",
         "name": "Jon",
         "location": "Bristol",
@@ -2206,5 +2214,13 @@
         "lat": 40.0149856,
         "lon": -105.270545,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2F5l83gz16cmftrmos82ktgvkb4ouf?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=b205315bcb7bb0a6f948fdc6fba6a1f2"
+    },
+    {
+        "ID": "417926",
+        "name": "Lux",
+        "location": "Berlin/Germany",
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fk8buwtwi5fvyrf7088rd69klmh9x?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fb15e07f8c4ee1120881ec213d54a27b"
     }
 ]
