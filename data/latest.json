@@ -549,7 +549,7 @@
         "location": "UK, London",
         "lat": 51.4893335,
         "lon": -0.1440551,
-        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fzwg48t57voabh8i8b383h4iokwm3?ixlib=rb-4.0.0&fit=clip&fm=png&auto=compress&w=300&h=300&s=9c77a1bc687d2379d9a48b2cc4bef695"
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fzwg48t57voabh8i8b383h4iokwm3?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=fb6bbb88f37f536b77e9e2735c369025"
     },
     {
         "ID": "299021",
@@ -2230,5 +2230,13 @@
         "lat": 38.3436365,
         "lon": -0.4881708,
         "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Fh6y1hf4ngatm4ivxwk9ppr0k9dl4?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=83f2e1c2ed60923d67c07bb90f5c7a2d"
+    },
+    {
+        "ID": "420457",
+        "name": "Diego F Medina",
+        "location": "Long Beach, California 🇺🇸",
+        "lat": 33.7690164,
+        "lon": -118.191604,
+        "image": "https://fitter-app.imgix.net/https%3A%2F%2Ffitter-uploads-public-prod.s3.ap-southeast-2.amazonaws.com%2Faux6aprg49itlo43tqy087ra7lje?ixlib=rb-4.0.0&fit=clip&auto=compress&fm=png&w=300&h=300&s=c63595eafe3e0e41d98d2efbe9284213"
     }
 ]
